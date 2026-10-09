@@ -1,6 +1,6 @@
 # 🏦 Loan Approval AI — End-to-End ML Project
 
-🚀 **Live Demo:** https://loan-prediction-ml.streamlit.app/
+🚀 **Live Demo:** https://loan-prediction-ml-kamivinnu.streamlit.app/
 📌 **Status:** Production-ready ML Web App
 
 ---
